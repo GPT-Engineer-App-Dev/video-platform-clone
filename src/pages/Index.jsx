@@ -4,7 +4,7 @@ const Index = () => {
   return (
     <Container maxW="container.xl" p={4}>
       <Flex justify="space-between" align="center" mb={4}>
-        <Image src="/images/youtube-logo.svg" alt="YouTube Logo" boxSize="50px" />
+        <Image src="/images/new-youtube-logo.svg" alt="YouTube Logo" boxSize="50px" />
         <Text fontSize="2xl" fontWeight="bold">YouTube Clone</Text>
       </Flex>
       <Box bg="gray.100" p={4} borderRadius="md">
